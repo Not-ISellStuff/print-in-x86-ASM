@@ -6,6 +6,7 @@ trying to learn x86 asm atm
 # Functions Used
 
 ```if you have worked with the windows api there you are prolly familiar with these 3 functions```
+
 ```WriteConsoleA, GetStdHandle, and ExitProcess```
 
 # Code
